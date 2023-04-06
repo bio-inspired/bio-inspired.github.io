@@ -1,2 +1,3 @@
-# bio-inspired.github.io
-Bio-Inspired Computing
+# Bio-Inspired Computing
+
+## Genetic Algorithms
